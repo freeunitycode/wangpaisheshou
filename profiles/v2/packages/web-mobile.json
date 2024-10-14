@@ -1,0 +1,17 @@
+{
+  "common": {
+    "outputName": "web-mobile",
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "name": "王牌射手"
+  },
+  "options": {
+    "web-mobile": {
+      "orientation": "portrait",
+      "__version__": "1.0.1"
+    }
+  }
+}

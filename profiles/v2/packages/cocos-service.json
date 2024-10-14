@@ -1,0 +1,17 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "f51eaa",
+      "services": []
+    },
+    "web-mobile": {
+      "configID": "f51eaa",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "f51eaa",
+    "services": [],
+    "__version__": "3.0.4"
+  }
+}
